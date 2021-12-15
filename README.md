@@ -1,8 +1,8 @@
 # Shopping-Cart
 The Shopping-Cart Exercise was created for MITxPro full-stack web development program. </br>
 
-<a href="https://foreverphoenix21.github.io/Shopping-Cart/">
-  <img src="Shopping-cart.png" alt="Eye Exercise link" width="200" /> </a>
+<!-- <a href="https://foreverphoenix21.github.io/Shopping-Cart/"> -->
+  <img src="Shopping-cart.png" alt="Shopping-Cart link" width="200" /> </a>
 
 ## Description:
 
